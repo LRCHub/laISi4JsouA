@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "We Rich",
+  "base_artist": "BAD HOP",
+  "createdAt": "2025-12-05T16:13:44.336406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Until We Rich - Feat. Krayzie Bone",
+      "artist": "Ice Cube",
+      "has_synced": true,
+      "path": "select/01_Until_We_Rich_-_Feat._Krayzie_Bone_Ice_Cube.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Until We Rich (feat. Krayzie Bone)",
+      "artist": "Ice Cube",
+      "has_synced": true,
+      "path": "select/02_Until_We_Rich_(feat._Krayzie_Bone)_Ice_Cube.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ain't We Rich",
+      "artist": "Prof",
+      "has_synced": false,
+      "path": "select/03_Ain't_We_Rich_Prof.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Until We Rich",
+      "artist": "Ice Cube feat. Krayzie Bone",
+      "has_synced": true,
+      "path": "select/04_Until_We_Rich_Ice_Cube_feat._Krayzie_Bone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Until We Rich",
+      "artist": "Ice Cube",
+      "has_synced": false,
+      "path": "select/05_Until_We_Rich_Ice_Cube.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mama We Rich",
+      "artist": "Gucci Mane",
+      "has_synced": false,
+      "path": "select/06_Mama_We_Rich_Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mama We Rich",
+      "artist": "Gucci Mane & Rich Homie Quan feat. Migos",
+      "has_synced": false,
+      "path": "select/07_Mama_We_Rich_Gucci_Mane_&_Rich_Homie_Quan_feat._Migos.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mama We Rich",
+      "artist": "Gucci Mane",
+      "has_synced": true,
+      "path": "select/08_Mama_We_Rich_Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Until We Rich",
+      "artist": "Ice Cube; Krayzie Bone",
+      "has_synced": true,
+      "path": "select/09_Until_We_Rich_Ice_Cube;_Krayzie_Bone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mama We Rich",
+      "artist": "Rich Homie Quan feat. Migos",
+      "has_synced": true,
+      "path": "select/10_Mama_We_Rich_Rich_Homie_Quan_feat._Migos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tell Her We Rïch",
+      "artist": "La Head",
+      "has_synced": true,
+      "path": "select/11_Tell_Her_We_Rïch_La_Head.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Until We Rich - Feat. Ice Cube",
+      "artist": "Krayzie Bone",
+      "has_synced": true,
+      "path": "select/12_Until_We_Rich_-_Feat._Ice_Cube_Krayzie_Bone.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "08 - Until We Rich Feat. Krayzie Bone",
+      "artist": "Ice Cube",
+      "has_synced": true,
+      "path": "select/13_08_-_Until_We_Rich_Feat._Krayzie_Bone_Ice_Cube.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Untill We Rich",
+      "artist": "Ice Cube",
+      "has_synced": true,
+      "path": "select/14_Untill_We_Rich_Ice_Cube.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Until We Rich (feat. K.A.Y B)",
+      "artist": "JayForeign",
+      "has_synced": true,
+      "path": "select/15_Until_We_Rich_(feat._K.A.Y_B)_JayForeign.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Untill We Rich",
+      "artist": "Ice Cube",
+      "has_synced": false,
+      "path": "select/16_Untill_We_Rich_Ice_Cube.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mama We Rich (feat. Migos)",
+      "artist": "Gucci Mane",
+      "has_synced": true,
+      "path": "select/17_Mama_We_Rich_(feat._Migos)_Gucci_Mane.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Rich (feat. G-k.i.d, Yellow Pato, Kaneee & KOWICHI)",
+      "artist": "BAD HOP, G-k.i.d, Yellow Pato, Kaneee, KOWICHI",
+      "has_synced": false,
+      "path": "select/pl_01_We_Rich_(feat._G-k.i.d,_Yellow_Pato,_Kaneee_&_KOWICHI)_BAD_HOP,_G-k.i.d,_Yellow_Pato,_Kaneee,_KOWICHI.txt"
+    }
+  ]
+}
